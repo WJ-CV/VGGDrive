@@ -5,7 +5,7 @@
 ## 📢 News
 - **[2026/02/26]** 👉 We released our paper on arXiv.
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
-
+---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9ddab37-4f0f-4eb1-9895-3e07efbcd082" width="45%" style="display:inline; margin-right:10px;" />
   <img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="45%" style="display:inline;" />
