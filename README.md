@@ -8,7 +8,7 @@
 
 ## 🏛️ Model Zoo
 
-| Model | Dataset | Download | Notes |
+| Model | Dataset | Download | Result |
 |-------|---------|----------|--------|
 | VGGDrive | NAVSIM | | |
 | VGGDrive | NuInstruct | | |
