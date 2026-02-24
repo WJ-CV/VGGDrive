@@ -1,9 +1,9 @@
 <img width="1280" height="300" alt="VGGDrive" src="https://github.com/user-attachments/assets/9976a4f6-51d7-4d2d-aa35-1d9e46bde598" />
 
-<h1 align="center">
-VGGDrive: Empowering Vision-Language Models with<br>
-Cross-View Geometric Grounding for Autonomous Driving
-</h1>
+<h2 align="center">
+VGGDrive: Empowering Vision-Language Models<br>
+with Cross-View Geometric Grounding for Autonomous Driving
+</h2>
 
 ## 📢 News
 - **[2026/02/26]** 👉 We released our paper on arXiv.
