@@ -3,7 +3,7 @@
 # VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving
 
 ## 📢 News
-
+- **[2026/02/26]** 👉 We released our paper on arXiv.
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
 
 <p align="center">
