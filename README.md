@@ -5,3 +5,13 @@
 ## 📢 News
 
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
+
+## 🏛️ Model Zoo
+
+| Model | Dataset | Download | Notes |
+|-------|---------|----------|--------|
+| VGGDrive | NAVSIM | | |
+| VGGDrive | NuInstruct | | |
+| VGGDrive | DriveLM | | |
+| VGGDrive | OmniDrive | | |
+| VGGDrive | NuScenes | | |
