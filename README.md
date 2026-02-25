@@ -6,7 +6,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </h2>
 
 ## 📢 News
-- **[2026/02/26]** 👉 We released our paper on arXiv.
+- **[2026/02/24]** 👉 We released our paper on arXiv.
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
 
 ---
