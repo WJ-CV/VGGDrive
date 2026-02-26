@@ -24,8 +24,8 @@ with Cross-View Geometric Grounding for Autonomous Driving
 
 | Model | Dataset | Download | Qwen_json |
 |-------|---------|----------|--------|
-| VGGDrive | NAVSIM | [v1](https://huggingface.co/wang-jie825/VGGDrive_model/tree/main)| [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/navsim_cache) |
-| VGGDrive | NuInstruct | | |
-| VGGDrive | DriveLM | | |
-| VGGDrive | OmniDrive | | |
-| VGGDrive | NuScenes | | |
+| VGGDrive | NAVSIM | [v1](https://huggingface.co/wang-jie825/VGGDrive_model/tree/main) | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/navsim_cache) |
+| VGGDrive | NuInstruct | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
+| VGGDrive | DriveLM | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
+| VGGDrive | OmniDrive | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
+| VGGDrive | NuScenes | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
