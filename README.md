@@ -30,11 +30,26 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="80%" />
+<img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="70%" />
 
 </td>
 </tr>
 </table>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- 左侧文字 -->
+  <div style="flex: 1; text-align: justify;">
+📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across <b>five mainstream autonomous driving benchmarks</b>, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
+  </div>
+
+  <!-- 右侧图片 -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="100%" />
+  </div>
+
+</div>
+
 
 ---
 ## 🏗️ Framework
