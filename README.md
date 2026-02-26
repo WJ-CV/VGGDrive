@@ -28,5 +28,6 @@ with Cross-View Geometric Grounding for Autonomous Driving
 | VGGDrive | DriveLM | [submission.json](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/blob/main/DriveLM_submission.json) | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
 | VGGDrive | OmniDrive | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
 | VGGDrive | NuScenes | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
-> ⚠️ **Prerequisite:**<br>
-> Please download the pretrained VGGT model weights (model.pt) from [vggt](https://github.com/facebookresearch/vggt) and place it in the ./vggt folder.
+> ⚠️ **Prerequisite:**
+> 
+> Please download the pretrained VGGT model weights (`model.pt`) from [vggt](https://github.com/facebookresearch/vggt) and place it in the `./vggt` folder.
