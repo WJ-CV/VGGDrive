@@ -6,7 +6,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </h2>
 
 ## 📢 News
-- **[2026/02/26]** 🚀 Released [VGGDrive NAVSIM v1 weights](#🏛️-model-zoo) and inference code.
+- **[2026/02/26]** 🚀 Released [VGGDrive NAVSIM v1 weights](#vggdrive-model-zoo) and inference code.
 - **[2026/02/24]** 👉 We released our paper on [arXiv](https://arxiv.org/abs/2602.20794).
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
 
@@ -20,7 +20,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 
 <img width="3568" height="2208" alt="fig3_2" src="https://github.com/user-attachments/assets/ed54172b-0d78-49b6-940d-db1dea110700" />
 
-<a name="model-zoo"></a>
+<a name="vggdrive-model-zoo"></a>
 ## 🏛️ Model Zoo
 | Model | Dataset | Download | Qwen_json |
 |:-----:|:-------:|:--------:|:---------:|
