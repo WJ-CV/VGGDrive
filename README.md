@@ -21,12 +21,12 @@ with Cross-View Geometric Grounding for Autonomous Driving
 <tr>
 <td width="50%" valign="top">
 
-🛠️ The core innovation lies in the design of a **plug-and-play Cross-View Geometric Enhancer (CVGE)**. Through a hierarchical adaptive injection mechanism, VGGDrive achieves deep coupling between a frozen 3D foundation model and a VLM without altering the original VLM architecture. This mechanism efficiently injects 3D geometric features into the model, enabling genuine cross-view 3D geometric modeling capability for autonomous driving VLAs.
+<p>🛠️ The core innovation lies in the design of a <b>plug-and-play Cross-View Geometric Enhancer (CVGE)</b>. Through a hierarchical adaptive injection mechanism, VGGDrive achieves deep coupling between a frozen 3D foundation model and a VLM without altering the original VLM architecture. This mechanism efficiently injects 3D geometric features into the model, enabling genuine cross-view 3D geometric modeling capability for autonomous driving VLAs.</p>
 
-📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across **five mainstream autonomous driving benchmarks**, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
+<p>📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across <b>five mainstream autonomous driving benchmarks</b>, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="100%" />
 
