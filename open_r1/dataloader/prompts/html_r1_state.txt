@@ -1,0 +1,9 @@
+- Steering: __steering__, current angle = __steering_degree__ degrees
+- Throttle & Brake Control: __throttle__, throttle position = __throttle_position__%
+- Current speed = __speed__ m/s
+- Current acceleration = __acceleration__ m/s²
+- Recent slope change (last 1s): __slope__, __slope_gain__ m
+
+What action and trajectory comes next?
+
+Answer:

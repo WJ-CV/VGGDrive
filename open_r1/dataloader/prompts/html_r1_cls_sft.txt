@@ -1,0 +1,39 @@
+You are an expert driver who complies with **traffic laws and road safety**. These images are from a **first-person perspective (ego view)**, with the ego vehicle positioned at the **bottom center**. Your task is to predict the ego vehicle's behavior over the next **3 seconds**, including:
+
+1. Steering Control (choose one of the following options):
+   - Go Straight (steering wheel angle within ±__steering_threshold_1__ degrees)
+   - Slight Left (+__steering_threshold_1__~+__steering_threshold_2__ degrees)
+   - Moderate Left (+__steering_threshold_2__~+__steering_threshold_3__ degrees)
+   - Turn Left (> +__steering_threshold_3__ degrees)
+   - Slight Right (-__steering_threshold_2__~-__steering_threshold_1__ degrees)
+   - Moderate Right (-__steering_threshold_3__~-__steering_threshold_2__ degrees)
+   - Turn Right (< -__steering_threshold_3__ degrees)
+
+2. Throttle & Brake Control:
+   - Braking (brake pedal engaged)
+   - Coasting (throttle position < __throttle_threshold_1__% and no brake)
+   - Light Acceleration (__throttle_threshold_1__%~__throttle_threshold_2__%)
+   - Moderate Acceleration (__throttle_threshold_2__%~__throttle_threshold_3__%)
+   - Hard Acceleration (> __throttle_threshold_3__%)
+
+3. Trajectory:
+   - Represented by six (x, y) coordinates (in meters, Ego Coordinates, at 0.5s intervals for 3s total).
+   - Coordinate Prediction (unit: m):
+     - x > 0: Forward
+     - x < 0: Backward
+     - y > 0: Leftward
+     - y < 0: Rightward
+
+**Current Ego Vehicle State**:
+- Steering: __steering__, current angle = __steering_degree__ degrees
+- Throttle & Brake Control: __throttle__, throttle position = __throttle_position__%
+- Current speed = __speed__ m/s
+- Current acceleration = __acceleration__ m/s²
+- Recent slope change (last 1s): __slope__, __slope_gain__ m
+
+**Output Format**:
+<steering_control>your choice here</steering_control>
+<throttle_and_brake_control>your choice here</throttle_and_brake_control>
+<trajectory>[[x1, y1], [x2, y2], [x3, y3], [x4, y4], [x5, y5], [x6, y6]]</trajectory>
+
+**Answer**:

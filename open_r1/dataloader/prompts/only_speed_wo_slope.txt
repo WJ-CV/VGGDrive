@@ -1,0 +1,6 @@
+- Current speed = __speed__ m/s
+- Current acceleration = __acceleration__ m/s²
+
+What trajectory comes next?
+
+Answer:

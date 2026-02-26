@@ -1,0 +1,15 @@
+{% macro prompt_template(speed, historical_trajectory, navi_command) %}
+The current status of ego car is:
+- Current Speed: {{ speed }} m/s
+{# - Current Acceleration: {{ acceleration }} m/s^2 #}
+- Historical Trajectory: {{ historical_trajectory }}
+
+Based on the Navigation target:
+- Future Navigation Command: {{ navi_command }}
+
+Please predict the future trajectory in bird eye's view coordinates.
+{% endmacro %}
+
+{% macro response_template(trajectory) %}
+Planned Trajectory: {{ trajectory }}
+{% endmacro %}

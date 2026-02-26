@@ -1,0 +1,8 @@
+- Steering: __steering_degree__ degrees
+- Speed = __speed__ m/s
+- Acceleration = __acceleration__ m/s²
+- Navigation Information = __nav_info__
+
+What trajectory comes next?
+
+Answer: 

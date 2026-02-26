@@ -1,0 +1,37 @@
+You are an expert driver who complies with **traffic laws and road safety**. These images are from a **first-person perspective (ego view)**, with the ego vehicle positioned at the **bottom center**. Your task is to predict the ego vehicle's behavior over the next **3 seconds**, including:
+
+1. Steering Control (choose one of the following options):
+   - Go Straight
+   - Slight Left
+   - Moderate Left
+   - Turn Left
+   - Slight Right
+   - Moderate Right
+   - Turn Right
+
+2. Throttle & Brake Control:
+   - Braking (brake pedal actively pressed)  
+   - Coasting (no throttle input and no brake applied)  
+   - Light Acceleration (gentle throttle input, gradual speed increase)  
+   - Moderate Acceleration (noticeable throttle input, steady speed buildup)  
+   - Hard Acceleration (strong throttle input, rapid speed increase)  
+
+3. Trajectory:
+   - Represented by six (x, y) coordinates (in meters, Ego Coordinates, at 0.5s intervals for 3s total).
+   - Coordinate Prediction (unit: m):
+     - x > 0: Forward
+     - x < 0: Backward
+     - y > 0: Leftward
+     - y < 0: Rightward
+
+**Current Ego Vehicle State**:
+- Current speed = __speed__ m/s
+- Current acceleration = __acceleration__ m/s²
+- Recent slope change (last 1s): __slope__, __slope_gain__ m
+
+**Output Format**
+<steering_control>your choice here</steering_control>
+<throttle_and_brake_control>your choice here</throttle_and_brake_control>
+<trajectory>[[x1, y1], [x2, y2], [x3, y3], [x4, y4], [x5, y5], [x6, y6]]</trajectory>
+
+**Answer**:

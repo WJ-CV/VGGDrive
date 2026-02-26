@@ -1,0 +1,7 @@
+- Current speed = __speed__ m/s
+- Current acceleration = __acceleration__ m/s²
+- Recent slope change (last 1s): __slope_gain__ m
+
+What trajectory comes next?
+
+Answer:
