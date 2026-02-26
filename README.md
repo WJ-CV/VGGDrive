@@ -24,7 +24,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 <td width="50%" valign="top">
 
 <p style="text-align: justify;">
-📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across <b>five mainstream autonomous driving benchmarks<b>, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
+📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across <strong>five mainstream autonomous driving benchmarks</strong>, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
 </p>
 
 </td>
