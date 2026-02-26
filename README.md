@@ -17,11 +17,11 @@ with Cross-View Geometric Grounding for Autonomous Driving
 
 💡 **VGGDrive** moves beyond data-level fixes and **charts a new course** by upgrading the capability structure itself. It introduces a mature 3D foundation model as a geometric backbone for VLMs, establishing a new technical paradigm that empowers Vision-Language Agents (VLAs) with 3D modeling capability and provides a scalable, sustainable pathway for enhancing autonomous driving systems.
 
-🛠️ The core innovation lies in the design of a **plug-and-play Cross-View Geometric Enhancer (CVGE)**. Through a hierarchical adaptive injection mechanism, VGGDrive achieves deep coupling between a frozen 3D foundation model and a VLM without altering the original VLM architecture. This mechanism efficiently injects 3D geometric features into the model, enabling genuine cross-view 3D geometric modeling capability for autonomous driving VLAs.
-
 <table>
 <tr>
 <td width="50%" valign="top">
+
+🛠️ The core innovation lies in the design of a **plug-and-play Cross-View Geometric Enhancer (CVGE)**. Through a hierarchical adaptive injection mechanism, VGGDrive achieves deep coupling between a frozen 3D foundation model and a VLM without altering the original VLM architecture. This mechanism efficiently injects 3D geometric features into the model, enabling genuine cross-view 3D geometric modeling capability for autonomous driving VLAs.
 
 📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across **five mainstream autonomous driving benchmarks**, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
 
@@ -34,16 +34,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </tr>
 </table>
 
-
-
-📈 Importantly, VGGDrive is not limited to single-task optimization. It consistently improves performance across **five mainstream autonomous driving benchmarks**, covering cross-view risk perception, scene understanding, motion and state prediction, and trajectory planning, thereby enhancing the full pipeline from perception to decision-making.
-
 ---
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9ddab37-4f0f-4eb1-9895-3e07efbcd082" width="45%" style="display:inline; margin-right:10px;" />
-  <img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="45%" style="display:inline;" />
-</p>
-
 ## 🏗️ Framework
 
 <img width="3568" height="2208" alt="fig3_2" src="https://github.com/user-attachments/assets/ed54172b-0d78-49b6-940d-db1dea110700" />
