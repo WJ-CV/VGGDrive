@@ -28,7 +28,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="https://github.com/user-attachments/assets/9676c112-8140-4a12-aa02-5145f126d4a5" width="70%" />
 
