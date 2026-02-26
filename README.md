@@ -56,7 +56,9 @@ with Cross-View Geometric Grounding for Autonomous Driving
 
 ## 🏁 Quick Start
 
-📌 Citation
+<br><br><br>
+
+## 📌 Citation
 ===
 ```
 @inproceedings{wang2026vggdrive,
