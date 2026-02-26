@@ -54,6 +54,8 @@ with Cross-View Geometric Grounding for Autonomous Driving
 > 
 > Please download the pretrained VGGT model weights (`model.pt`) from [vggt](https://github.com/facebookresearch/vggt) and place it in the `./vggt` folder.
 
+## 🏁 Quick Start
+
 📌 Citation
 ===
 ```
