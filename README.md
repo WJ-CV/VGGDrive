@@ -26,6 +26,6 @@ with Cross-View Geometric Grounding for Autonomous Driving
 |:-----:|:-------:|:--------:|:---------:|
 | VGGDrive | NAVSIM | [v1](https://huggingface.co/wang-jie825/VGGDrive_model/tree/main) | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/navsim_cache) |
 | VGGDrive | NuInstruct | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
-| VGGDrive | DriveLM | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
+| VGGDrive | DriveLM | [submission.json](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/blob/main/DriveLM_submission.json) | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
 | VGGDrive | OmniDrive | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
 | VGGDrive | NuScenes | | [train&test](https://huggingface.co/datasets/wang-jie825/VGGDrive_Qwen_json/tree/main/nuScenes_cache)  |
