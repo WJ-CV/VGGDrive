@@ -60,7 +60,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 
 ## 📌 Citation
 ```
-@inproceedings{wang2026vggdrive,
+@article{wang2026vggdrive,
   title={VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving},
   author={Wang, Jie and Li, Guang and Huang, Zhijian and Dang, Chenxu and Ye, Hangjun and Han, Yahong and Chen, Long},
   journal={arXiv preprint arXiv:2602.20794},
