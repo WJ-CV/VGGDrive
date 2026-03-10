@@ -6,7 +6,7 @@ with Cross-View Geometric Grounding for Autonomous Driving
 </h2>
 
 ## 📢 News
-- **[2026/02/26]** 🌐 Project page is live: [demo](https://WJ-CV.github.io/VGGDrive/)
+- **[2026/03/09]** 🌐 Project page is live: [demo](https://WJ-CV.github.io/VGGDrive/)
 - **[2026/02/26]** 🚀 Released [VGGDrive NAVSIM v1 weights](#vggdrive-model-zoo) and inference code.
 - **[2026/02/24]** 👉 We released our paper on [arXiv](https://arxiv.org/abs/2602.20794).
 - **[2026/02/21]** 🎉🎉🎉 Accepted to CVPR 2026.
